@@ -139,8 +139,9 @@ button {
     }
 
     .ads {
-        width: 340px;
+        width: 320px;
         height: 75px;
+        margin: 0  50px 20px 0px;
     }
 
     .ads-text {
