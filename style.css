@@ -139,20 +139,21 @@ button {
     }
 
     .ads {
-        width: 465px;
+        width: 260px;
         height: 75px;
     }
 
     .ads-text {
-        padding: 20px 130px;
+        padding: 25px 50px;
     }
 
     input {
-        width: 370px;
+        width: 220px;
     }
 
     ::placeholder {
         padding-left: 20px;
+        font-size : 10px;
     }
 
     .first-name {
@@ -160,12 +161,12 @@ button {
     }
 
     button {
-        width: 370px;
+        width: 220px;
         font-size: 12px;
     }
 
     .button-txt {
-        font-size: 10px;
+        font-size: 8px;
         padding: 15px 40px 20px 40px;
     }
 }
